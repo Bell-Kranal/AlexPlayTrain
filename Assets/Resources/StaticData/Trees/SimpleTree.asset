@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 535f22887e36458d8d8d6301ee0e3d74, type: 3}
+  m_Name: SimpleTree
+  m_EditorClassIdentifier: 
+  TreeTypeId: 1
+  Health: 3
+  Price: 4
+  TreePrefab: {fileID: 5079170548992325729, guid: d4b31934dc23f9645821e27fef775058, type: 3}

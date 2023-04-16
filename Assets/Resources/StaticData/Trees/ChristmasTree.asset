@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 535f22887e36458d8d8d6301ee0e3d74, type: 3}
+  m_Name: ChristmasTree
+  m_EditorClassIdentifier: 
+  TreeTypeId: 0
+  Health: 5
+  Price: 8
+  TreePrefab: {fileID: 8274856952914916253, guid: d6180278968ad1b41bca780a5cb7e567, type: 3}
